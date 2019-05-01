@@ -7,4 +7,4 @@ Jmeter is an open source testing software. Jmeter is design to cover various cat
 -	Setting the ramp-up time
 -	Setting the number of test iterations-
 
-I have descrive details Assignment09.docx file.
+ Details -------------> Assignment09.docx file.
